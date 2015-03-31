@@ -1,0 +1,41 @@
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 3px;
+  border-top: 5px solid #555;
+  height: 4px;
+}
+
+.page-header {
+  padding-bottom: 35px;
+  margin: 20px 0 10px;
+  border-bottom: 4px solid #bcbbbb;
+
+}
+
+.text-title {
+	font-family: Georgia, serif;
+	text-align: right;
+	font-size: 34px;
+}
+.text-sub-title {
+	font-family: Georgia, serif;
+	text-align: right;
+	font-size: 20px;
+}
+
+.main-project {
+	font-family: Georgia, serif;
+	color: #bcbbbb;
+	text-align: left;
+	font-size: 28px;
+	margin-top: 20px;
+	margin-bottom: 15px;	
+}
+
+.project-title {
+	font-family: Georgia, serif;
+	color : #484848;
+	font-size : 16px;
+	font-weight: bold;
+	}
